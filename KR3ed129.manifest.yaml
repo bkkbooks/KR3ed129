@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3ed129/v1
+canonical_location: https://kanripo.org/bkk/KR3ed129/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 溫隱居海上仙方
+  identifiers:
+    krp: KR3ed129
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed129.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed129_000.yaml, hash: 'sha256:0e7c38eb025e7400a9462776e96c95af0f8cef247e4a0bd2d95832ba3001c8e0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed129_000.markers.yaml, hash: 'sha256:29a2f14a4b9464f8cdf5c789a66e3706b2e7bd1b7cecf5100f91333cd70a2049'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed129_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 301
+  label: 海上仙方序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed129_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 7790
+  label: 新刻溫隱居海上仙方前集
+  type: section
+  level: 1
+hash: sha256:3c29adf7ddbebd0bf6dd001a51e7c8edcfd9189f72d2f1ff73356987165f3751
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
