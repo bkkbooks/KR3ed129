@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed129_000.yaml, hash: 'sha256:0e7c38eb025e7400a9462776e96c95af0f8cef247e4a0bd2d95832ba3001c8e0'}
+  - {seq: 0, filename: KR3ed129_000.yaml, hash: 'sha256:bfb2733b6f93aa11819c327fcb35f5f29aac28f0d0540351b0d874773f3f1138'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed129_000.markers.yaml, hash: 'sha256:29a2f14a4b9464f8cdf5c789a66e3706b2e7bd1b7cecf5100f91333cd70a2049'}
+  - {seq: 0, role: markers, filename: assets/KR3ed129_000.markers.yaml, hash: 'sha256:b6dd7e642bdf039d4925f822625b59d2f2cc35a9f6aab43c55112e3a505128f1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,7 +41,4 @@ table_of_contents:
   label: 新刻溫隱居海上仙方前集
   type: section
   level: 1
-hash: sha256:3c29adf7ddbebd0bf6dd001a51e7c8edcfd9189f72d2f1ff73356987165f3751
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:92ed25320c8092a89211d3657be170c72ea1bb7bac3968b5ff21b25c009e36fd
