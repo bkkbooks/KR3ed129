@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed129/v1
 canonical_location: https://kanripo.org/bkk/KR3ed129/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 溫隱居海上仙方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed129_000.yaml, hash: 'sha256:bfb2733b6f93aa11819c327fcb35f5f29aac28f0d0540351b0d874773f3f1138'}
+  - {seq: 0, filename: KR3ed129_000.yaml, hash: 'sha256:24efb6b0e023bd58d06a6296a7c2b38fc2ef3e40de55add16f55ada8f2f9dadd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed129_000.markers.yaml, hash: 'sha256:b6dd7e642bdf039d4925f822625b59d2f2cc35a9f6aab43c55112e3a505128f1'}
+  - {seq: 0, role: markers, filename: assets/KR3ed129_000.markers.yaml, hash: 'sha256:d4afc9f52694560416e03229db8586639b74d88393d33880597be89635e8fa7f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,7 @@ table_of_contents:
   label: 新刻溫隱居海上仙方前集
   type: section
   level: 1
-hash: sha256:92ed25320c8092a89211d3657be170c72ea1bb7bac3968b5ff21b25c009e36fd
+hash: sha256:ef36d2be77ba24ea7a8706cab3a342f88f5ee17dd65749a1d45e985d4abaa2b9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
